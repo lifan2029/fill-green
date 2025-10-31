@@ -74,7 +74,9 @@ END_DATE   = "2024-10-04"    # last commit date
 python main.py
 ```
 
-## ⭐ Support
+## ✨ Author
 
-If you like this project, please consider giving it a **star** on GitHub!  
-It helps others discover the repo and motivates me to improve it 🚀
+Developed by [lifan2029](https://github.com/your-username) — Fullstack developer.  
+If you like this project, feel free to ⭐ star it on GitHub!
+
+📧 lifan2029@gmail.com  
